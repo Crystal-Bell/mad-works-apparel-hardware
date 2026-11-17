@@ -1,4 +1,11 @@
 ---
+repository: M.A.D. Works
+module: M.A.D. Grips+ Specification
+status: Prototype
+constraint_model: Zero-Friction Specification
+---
+
+---
 id: mad-grips-plus
 domain: Hardware / Modular Apparel
 status: Prototype
