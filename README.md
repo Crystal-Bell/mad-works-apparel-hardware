@@ -1,3 +1,46 @@
+---
+id: mad-grips-plus
+domain: Hardware / Modular Apparel
+status: Prototype
+parent_thesis: v1.0 CORE MANIFESTO INDEX
+---
+
+# M.A.D. Grips+
+
+> **A modular, heat-resistant wrap band securing around the palm, wrist, or forearm to stabilize tools and regulate grip pressure without full-glove restriction.**
+
+---
+
+## 1. Core Functionality
+* **Primary Mechanism:** Modular tension wrap with integrated air-bladder pressure control and interchangeable tool attachment points.
+* **Constraint Solved:** Eliminates hand fatigue, grip slippage, and full-glove dexterity loss during high-heat or high-friction manual tasks.
+* **Form Factor:** Adjustable modular band (palm, wrist, or forearm configuration); non-latex, heat-resistant outer shell.
+
+---
+
+## 2. Input / Output Architecture
+
+| Layer | Specification | Format / Interface |
+| :--- | :--- | :--- |
+| **Input** | Manual grip tension, external thermal load, pneumatic bladder pressure | Mechanical strap lock / air valve |
+| **Process** | Load distribution across palm/forearm + variable air-pressure stabilization | Oven-safe textile & internal bladder |
+| **Output** | Stabilized tool retention, thermal protection, reduced muscular strain | Locked modular utility mount |
+
+---
+
+## 3. Execution / Deployment
+1. `Wrap band around target zone (palm, wrist, or forearm) and engage primary fastener.`
+2. `Seat utility tool or attachment point into the modular anchor.`
+3. `Adjust pneumatic bladder pressure until tool retention is locked without restricting circulation.`
+4. `Verification check: Apply lateral pull force to tool; band must hold position with zero slip.`
+
+---
+
+## 4. Cross-References & Ecosystem Links
+* **Upstream Dependency:** `M.A.D. W.E.A.R. (Modular Utility Apparel)`
+* **Downstream Integration:** `M.A.D. Wildland Thermal & Ergonomic Reinforcement Framework`
+* **Substack Technical Log:** `M.A.D. Works: Friction Reduction & Modular Grip Architecture`
+
 # M.A.D. Grips+: Modular Palm and Wrist Wrap Insert Specifications
 
 ## 1. Core Design Parameters
